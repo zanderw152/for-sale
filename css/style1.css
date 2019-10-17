@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color :red;
+}
+
+h1{
+	padding: 10px;
+	font-size: 50px;
+	background-color: blue;
+	font: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+header {
+	background-color :aquamarine;
+	text-align: center;
+	padding: 10px;
+	font-size: 20px;
+	
+		
+}
+
+atricle {
+	background-color:deeppink;
+	padding: 38px;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+
+}
+img {
+	width:35%;
+    float:left;
+	padding-right: 25px;
+	
+}
+footer{
+	background-color:aliceblue;
+	clear:both;
+	text-align: center;
+		text-decoration: underline;
+		text-decoration-color: chartreuse;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+
+
